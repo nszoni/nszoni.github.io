@@ -7,6 +7,8 @@ keywords: []
 slug: /@nszoni/the-zen-of-avoiding-the-cloud-cost-fallacy-807433407cb2
 ---
 
+# The Zen of Avoiding the Cloud Cost Fallacy
+
 [Sunk cost](https://thedecisionlab.com/biases/the-sunk-cost-fallacy) in the data space?
 
 Let’s be honest, 2022 was a good year for data and a lot of companies moved closer to working with data (kinda induced by the pandemic). Also, you probably saw a lot more job openings on LinkedIn to kickstart an [analytics engineering](https://www.getdbt.com/what-is-analytics-engineering/) team. There is still a lot to explore, but more and more companies start to realize how valuable data is in the first place and how dbt shortens the learning curve.

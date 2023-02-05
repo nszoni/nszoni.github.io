@@ -8,6 +8,8 @@ slug: >-
   /@nszoni/apache-superset-a-hidden-gem-in-the-heaps-of-bi-tools-part-i-1994c4430a35
 ---
 
+# Apache Superset: A hidden gem in the heaps of BI tools? — Part I.
+
 > This article is part of the short series. Part I. deals with demonstrating the strengths of **Superset** and how it’s situated in the diverse dataviz market, while the upcoming [Part II.](https://nszoni.github.io/apache-superset-a-hidden-gem-in-the-heaps-of-bi-tools-part-ii-e1a1f1657308) will discuss our experience in implementing and testing Superset on the pipeline illustrated with the figure below.
 
 #### **Introduction**

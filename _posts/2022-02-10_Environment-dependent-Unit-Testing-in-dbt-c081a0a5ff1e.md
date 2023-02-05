@@ -9,6 +9,8 @@ keywords: []
 slug: /@nszoni/environment-dependent-unit-testing-in-dbt-c081a0a5ff1e
 ---
 
+# Environment-dependent Unit Testing in dbt
+
 ![](/_posts/img/1__Oy6__Ti0E__YfqVXlIn2IreQ.jpeg)
 
 I’ve been using dbt for a while now and I feel that most developer needs are covered with community-developed test suite packages like [dbt\_utils](https://github.com/dbt-labs/dbt-utils#schema-tests), [dbt-expectations,](https://github.com/calogica/dbt-expectations) or custom generic tests defined via the mix of Jinja and SQL.

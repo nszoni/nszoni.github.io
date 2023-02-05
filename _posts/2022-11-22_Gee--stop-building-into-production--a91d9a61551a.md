@@ -7,6 +7,8 @@ keywords: []
 slug: /@nszoni/gee-stop-building-into-production-a91d9a61551a
 ---
 
+# 'Gee, stop building into production!'
+
 _How I Learned to Stop Worrying and Love the Deployment_
 
 ![](/_posts/img/1__qXpM8o49P6kSnugDycbn__A.png)

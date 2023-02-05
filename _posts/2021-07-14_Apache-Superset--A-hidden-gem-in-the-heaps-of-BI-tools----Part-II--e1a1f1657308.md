@@ -8,6 +8,8 @@ slug: >-
   /@nszoni/apache-superset-a-hidden-gem-in-the-heaps-of-bi-tools-part-ii-e1a1f1657308
 ---
 
+# Apache Superset: A hidden gem in the heaps of BI tools? — Part II.
+
 > In [Part I.](https://nszoni.github.io/apache-superset-a-hidden-gem-in-the-heaps-of-bi-tools-part-i-1994c4430a35?source=your_stories_page-------------------------------------), we argued in favor of using Superset as a free and open-source solution. Make sure to check it out beforehand to understand our dedication and excitement towards the project.
 
 Now, let’s dig into how we have test-driven Superset on top of other fascinating technologies.
