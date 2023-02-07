@@ -18,9 +18,9 @@ rss: rss
 
 header_pages:
   - about.md
-  - portfolio.md
-  - career.md
-  - education.md
+  - projects.md
+  - snippets.md
+  - toolkit.md
   - talks.md
   - archive.md
 

@@ -1,5 +1,5 @@
 ---
 layout: page
-title: Career 🛠️
+title: Snippets 🪡
 ---
 
