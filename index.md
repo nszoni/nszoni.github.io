@@ -1,4 +1,4 @@
-## About Me 😎
+## About Me 🧑🏻‍💻
 
 I'm an analytics engineer based in Budapest with a dockercap who creates scalable pipelines and assists businesses in adopting modern data stack technologies in a cost-effective manner.
 
