@@ -3,14 +3,6 @@ hr {
   margin-bottom: 20px;
 }
 
-.site-title::before {
-  content: url("./assets/logo.png");
-  display: inline-block;
-  position: relative;
-  width: 35px;
-  top: 35px;
-}
-
 /* Post navigation links */
 .post_navi {
   display: flex;
