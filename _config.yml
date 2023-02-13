@@ -22,6 +22,7 @@ header_pages:
   - snippets.md
   - toolkit.md
   - talks.md
+  - digest.md
   - archive.md
 
 kramdown:
