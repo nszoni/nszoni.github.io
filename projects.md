@@ -3,8 +3,6 @@ layout: page
 title: Projects 🧱
 ---
 
-
-
 ### [awesome-dbt](https://github.com/nszoni/awesome-dbt)
 
 A curated list of awesome dbt resources.
