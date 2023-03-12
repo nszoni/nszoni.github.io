@@ -3,6 +3,18 @@ layout: page
 title: Digest 🗞️
 ---
 
+## 2023-03-13
+
+- [Wizard for dbt Core (TM)](https://marketplace.visualstudio.com/items?itemName=Fivetran.dbt-language-server)
+- [dbt Power User](https://marketplace.visualstudio.com/items?itemName=innoverio.vscode-dbt-power-user)
+- [dbtc](https://dbtc.dpguthrie.com/0.3/)
+- [dbt_run_changed](https://discourse.getdbt.com/t/tips-and-tricks-about-working-with-dbt/287/2)
+- [data-diff --dbt](https://docs.datafold.com/os_diff/dbt_integration/)
+- [Raycast dbt Cloud](https://www.raycast.com/zsombor-flds/dbtcloud)
+- Multicursor:
+    - [MacOS](https://alexharri.com/blog/multi-cursor-code-editing-animated-introduction)
+    - [General](https://davidamos.dev/vs-code-multi-cursors/)
+
 ## 2023-02-13
 
 - [dbt Labs acquires Transform](https://www.getdbt.com/blog/dbt-acquisition-transform/)
