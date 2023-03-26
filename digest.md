@@ -3,6 +3,17 @@ layout: page
 title: Digest 🗞️
 ---
 
+## 2023-03-26
+
+- [dbt-model-finder](https://github.com/foundinblank/dbt-model-finder/)
+- [Copilot X](https://github.blog/2023-03-22-github-copilot-x-the-ai-powered-developer-experience/)
+- [dbt docs as a static website](https://medium.com/hiflylabs/dbt-docs-as-a-static-website-c50a5b306514)
+- [Should you use CTEs in Snowflake](https://select.dev/posts/should-you-use-ctes-in-snowflake)
+- [AI Commits](https://github.com/Nutlope/aicommits)
+- [What the Diff?](https://whatthediff.ai/)
+- [Stale data detection](https://eponkratova.medium.com/stale-data-detection-with-dbt-and-bigquery-dataset-metadata-662196cf9370)
+- [dbt documentor](https://www.textql.com/dbt)
+
 ## 2023-03-13
 
 - [Wizard for dbt Core (TM)](https://marketplace.visualstudio.com/items?itemName=Fivetran.dbt-language-server)
