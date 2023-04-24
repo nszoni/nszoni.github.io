@@ -3,6 +3,18 @@ layout: page
 title: Digest 🗞️
 ---
 
+## 2023-04-24
+
+- [CMU Advanced Database Systems](https://15721.courses.cs.cmu.edu/spring2021/)
+- [JSONCrack](https://jsoncrack.com/)
+- [dbt-excel](https://dbt-excel.com/)
+- [SQLMesh](https://sqlmesh.com/)
+- [Steampipe](https://steampipe.io/)
+- [The next big step forwards for analytics engineering](https://www.getdbt.com/blog/analytics-engineering-next-step-forwards/)
+- [The False Promise of dbt Contracts](https://tobikodata.com/the-false-promise-of-dbt-contracts.html)
+- [Introducing AI Functions: Integrating Large Language Models with Databricks SQL](https://www.databricks.com/blog/2023/04/18/introducing-ai-functions-integrating-large-language-models-databricks-sql.html)
+
+
 ## 2023-03-26
 
 - [dbt-model-finder](https://github.com/foundinblank/dbt-model-finder/)
