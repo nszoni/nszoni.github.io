@@ -23,6 +23,7 @@ title: Digest 🗞️
 - [Steampipe](https://steampipe.io/)
 - [The next big step forwards for analytics engineering](https://www.getdbt.com/blog/analytics-engineering-next-step-forwards/)
 - [The False Promise of dbt Contracts](https://tobikodata.com/the-false-promise-of-dbt-contracts.html)
+- [Bigfunctions](https://unytics.io/bigfunctions/reference/)
 - [Introducing AI Functions: Integrating Large Language Models with Databricks SQL](https://www.databricks.com/blog/2023/04/18/introducing-ai-functions-integrating-large-language-models-databricks-sql.html)
 
 
