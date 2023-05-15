@@ -3,6 +3,17 @@ layout: page
 title: Digest 🗞️
 ---
 
+## 2023-05-15
+
+- [dbt v1.5 — the 3 Big New Things](https://betterprogramming.pub/dbt-v1-5-the-3-big-new-things-660e59fd29cb)
+- [dbt incremental predicates](https://docs.getdbt.com/docs/build/incremental-models#about-incremental_predicates)
+- [Jinjat](https://jinjat.com/)
+- [Data Council Austin 2023](https://www.youtube.com/playlist?list=PLAesBe-zAQmF-GpvZ3ba5YpVzoVbgzl8M)
+- [Data enrichment with fuzzy joins](https://www.dataengineeringweekly.com/p/unlocking-data-stream-processing-84f)
+- [How to track your dbt project’s BigQuery data warehouse costs](https://medium.com/inthepipeline/how-to-track-your-dbt-projects-bigquery-data-warehouse-costs-in-dbt-a-poc-716068b1e2c3)
+- [Mojo](https://www.fast.ai/posts/2023-05-03-mojo-launch.html)
+- [HuggingChat](https://huggingface.co/chat/)
+
 ## 2023-04-24
 
 - [CMU Advanced Database Systems](https://15721.courses.cs.cmu.edu/spring2021/)
