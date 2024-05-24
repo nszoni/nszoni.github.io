@@ -1,9 +1,11 @@
 ## About Me 😎
 
-I'm an analytics engineer based in Budapest with a dockercap who creates scalable pipelines and assists businesses in adopting modern data stack technologies in a cost-effective manner.
+Sonny is a data engineer who creates scalable data pipelines and assists businesses in adopting modern data stack technologies.
 
-I have over a year of profound experience implementing solutions with dbt and the Modern Data Ecosystem. On top of that, I am passionate about giving back to the community by sharing knowledge in a variety of ways (blog posts & open-source contributions).
+He has years of profound experience implementing solutions with dbt and the Modern Data Stack in the finance, fashion retail, and the manufacturing industry. On top of that, he is passionate about giving back to the community by sharing knowledge in a variety of ways (blog posts, open-source contributions, speaking at conferences).
 
-I graduated from Central European University's Business Analytics program with a data-heavy coursework and studied data and management at ESSEC Business School.
+He graduated from Central European University's US-accredited Business Analytics program with a data-heavy coursework in Budapest and studied data and management at ESSEC Grand École in Paris. Now he's staying in Brussels and work in Leuven.
+
+On weekends he's volunteering in Brussels at Serve Now to give something back for the people in need.
 
 I hope you will enjoy my content! 🥳
